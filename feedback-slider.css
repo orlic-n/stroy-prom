@@ -1,0 +1,8 @@
+.feedback_slider{
+    height: 450px;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
